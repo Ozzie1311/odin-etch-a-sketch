@@ -21,7 +21,6 @@ body {
   width: 1080px;
   justify-content: space-between;
   align-items: baseline;
-  margin: 12px;
 }
 
 .board {
@@ -36,4 +35,16 @@ body {
   width: 1080px;
   justify-content: space-between;
   margin-top: 12px;
+}
+
+#message {
+  margin: 0;
+  font-weight: bold;
+}
+
+#draw {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+
 }
